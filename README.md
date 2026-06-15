@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Snake](https://github.com/Het123456/Het123456ß/blob/main/images/github-contribution-grid-snake.svg)
+![Snake](images/github-contribution-grid-snake.svg)
 
 </div>
