@@ -1,5 +1,11 @@
-## Hi, I'm Het Shah
+<h1 align="center">Hi 👋, I'm Het Shah</h1>
+
+<h3 align="center">
 AI Engineer | ML Researcher | Backend Developer
+</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer;ML+Researcher;ISRO+Research+Trainee;Backend+Developer;Building+AI+Systems" alt="Typing SVG" />
+</p>
 <!--
 **Het123456/Het123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
