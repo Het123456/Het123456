@@ -26,3 +26,10 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,fastapi,docker,linux,git,mysql" />
 </p>
+
+
+<div align="center">
+
+![Snake](https://github.com/Het123456/Het123456ß/blob/main/images/github-contribution-grid-snake.svg)
+
+</div>
