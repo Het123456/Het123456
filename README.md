@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Het Shah
+AI Engineer | ML Researcher | Backend Developer
 <!--
 **Het123456/Het123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
