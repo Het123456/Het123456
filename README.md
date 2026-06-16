@@ -25,11 +25,9 @@
 
 ---
 
-<h2 align="center">💼 Experience</h2>
+## 💼 Experience
 
-<p align="center">
-  <strong>Research Intern</strong> &nbsp;·&nbsp; Space Applications Centre, ISRO &nbsp;·&nbsp; <code>Jan 2025 – Apr 2025</code>
-</p>
+**Research Intern** — Space Applications Centre, ISRO &nbsp; `Jan 2025 – Apr 2025` &nbsp; `On-site`
 
 - Developed an end-to-end automated pipeline for SHARAD radar data processing — EDR to radargram conversion
 - Implemented the Range-Doppler Algorithm in Python for SAR imaging; delivered a processor 15% faster than the existing one
@@ -37,41 +35,27 @@
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
+## 🚀 Projects
 
-<p align="center">
-  <strong>AI-Powered Tax & Financial Document Automation System</strong>
-</p>
+**AI-Powered Tax & Financial Document Automation System**
 
 - Architected an AI pipeline automating data extraction from financial, tax, and application forms using GPT-4o, Azure Document Intelligence, and OCR
 - Built template-free document classification and signature detection across multiple document categories
 - Deployed cloud-hosted solution processing 100+ PDFs per batch with authentication, audit logging, and real-time tracking
 
-<br/>
-
-<p align="center">
-  <strong>Hate Speech & Cyberbullying Detection System</strong>
-</p>
+**Hate Speech & Cyberbullying Detection System**
 
 - Implemented a BERT model achieving 98.91% accuracy and F1 score of 0.9891
 - Combined sentiment analysis and temporal patterns; applied NLP techniques to handle sarcasm and context-dependent meanings
 - Benchmarked against Decision Tree, Random Forest, SVM, and Logistic Regression
 
-<br/>
-
-<p align="center">
-  <strong>AI-Assisted Inverse Design of Tunable Color Filters</strong>
-</p>
+**AI-Assisted Inverse Design of Tunable Color Filters**
 
 - Developed a CNN with ELU activation achieving 99.95% accuracy in spectral prediction
 - Implemented differential evolution algorithm reducing computational time by 20%
 - Automated data generation using Lua scripts, processing 120,000 simulation samples with MSE of 0.00045
 
-<br/>
-
-<p align="center">
-  <strong>Trading Automation using Supertrend Indicator</strong>
-</p>
+**Trading Automation using Supertrend Indicator**
 
 - Built an intraday trading bot in Python using Angel One SmartAPI — automated trade execution on 1-minute Supertrend signals
 - Engineered a Flask-based dashboard to configure strategy parameters and monitor trade status in real time
@@ -79,18 +63,18 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,matlab,c" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flask,fastapi,html,css,js" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,mysql" />
 </p>
 
