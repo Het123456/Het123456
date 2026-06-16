@@ -16,11 +16,52 @@
 
 ---
 
-<h2 align="left">About Me</h2>
+<h2 align="center">About Me</h2>
 
-<p align="left">
-  B.Tech ICT graduate (CGPA: 9.70) from PDEU, pursuing M.Tech ICT (ML) at DA-IICT and I am
+<p align="center">
+  B.Tech ICT graduate (CGPA: 9.70) from PDEU, pursuing M.Tech ICT (ML) at DA-IICT —<br/>
   building end-to-end AI systems across document intelligence, deep learning, and NLP.
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,matlab,c" />
+</p>
+
+<p align="center"><strong>AI & Machine Learning</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+</p>
+
+<p align="center"><strong>Backend & Databases</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql" />
+</p>
+
+<p align="center"><strong>Frontend</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p align="center"><strong>DevOps & Tools</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Document_Intelligence-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -60,23 +101,6 @@
 - Built an intraday trading bot in Python using Angel One SmartAPI — automated trade execution on 1-minute Supertrend signals
 - Engineered a Flask-based dashboard to configure strategy parameters and monitor trade status in real time
 - Integrated options trading logic with dynamic strike price selection for NIFTY, BANKNIFTY, and SENSEX derivatives
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,matlab,c" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,html,css,js" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,mysql" />
-</p>
 
 ---
 
