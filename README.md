@@ -16,9 +16,9 @@
 
 ---
 
-<h2 align="right">About Me</h2>
+<h2 align="left">About Me</h2>
 
-<p align="right">
+<p align="left">
   B.Tech ICT graduate (CGPA: 9.70) from PDEU, pursuing M.Tech ICT (ML) at DA-IICT —<br/>
   building end-to-end AI systems across document intelligence, deep learning, and NLP.
 </p>
